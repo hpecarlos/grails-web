@@ -1,3 +1,7 @@
+## References
+
+- [This project guide docs.grails.com](https://docs.grails.org/6.2.3/guide/single.html#whatsNew)
+
 ## Grails 6.2.3 Documentation
 
 - [User Guide](https://docs.grails.org/6.2.3/guide/index.html)
