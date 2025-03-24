@@ -1,5 +1,6 @@
 # Grails specific
 /.grails/
+/.gradle/
 /target/
 /build/
 
