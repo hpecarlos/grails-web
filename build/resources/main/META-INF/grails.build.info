@@ -1,0 +1,6 @@
+#Mon, 24 Mar 2025 12:55:11 -0400
+
+info.app.version=0.1
+info.app.name=grails-web
+grails.env=production
+info.app.grailsVersion=6.2.3
